@@ -19,3 +19,4 @@ static NSString *const ALActionBlocksArray = @"ALActionBlocksArray";
 - (void)invokeBlock:(id)sender;
 
 @end
+
